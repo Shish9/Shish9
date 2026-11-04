@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Amed 👋
 
-<!--
-**Shish9/Shish9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical software for desktop, mobile, and web, with a focus on thoughtful user experiences and real-world tools.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [omarchy-context](https://github.com/Shish9/omarchy-context) — A context-aware desktop layer for Omarchy that detects what you're doing and adapts the desktop around it.
+- [Noor](https://github.com/Shish9/Noor) — A premium Flutter app for Quran reading, duas, and daily spiritual engagement.
+- [Eave](https://github.com/Shish9/eave) — A Windows dynamic island for Claude Code with at-a-glance status, widgets, and workflow support.
+- [CodeByAmed](https://github.com/Shish9/codebyamed) — A personal portfolio and developer site built with React, Vite, and TypeScript.
+
+## Tools and stack
+
+- QML
+- C#
+- Flutter
+- Dart
+- React
+- Vite
+- TypeScript
+
+## What I'm working on
+
+I enjoy building software that feels polished, useful, and tailored to how people actually work.
+
+## Find me
+
+- GitHub: [@Shish9](https://github.com/Shish9)
