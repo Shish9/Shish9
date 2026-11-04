@@ -1,27 +1,17 @@
 # Hi, I'm Amed 👋
 
-I build practical software for desktop, mobile, and web, with a focus on thoughtful user experiences and real-world tools.
+I build practical software for desktop, mobile, and web, with a focus on thoughtful user experiences and tools that solve real problems.
 
 ## Featured projects
 
-- [omarchy-context](https://github.com/Shish9/omarchy-context) — A context-aware desktop layer for Omarchy that detects what you're doing and adapts the desktop around it.
-- [Noor](https://github.com/Shish9/Noor) — A premium Flutter app for Quran reading, duas, and daily spiritual engagement.
-- [Eave](https://github.com/Shish9/eave) — A Windows dynamic island for Claude Code with at-a-glance status, widgets, and workflow support.
-- [CodeByAmed](https://github.com/Shish9/codebyamed) — A personal portfolio and developer site built with React, Vite, and TypeScript.
+- [Omarchy Context](https://github.com/Shish9/omarchy-context) — A context-aware desktop layer for Omarchy that detects your activity and adapts your desktop using configurable, local-first rules.
+- [Noor](https://github.com/Shish9/Noor) — A Flutter app for Quran reading, audio, duas, bookmarks, and daily spiritual engagement.
+- [Eave](https://github.com/Shish9/eave) — An open-source Windows dynamic island for Claude Code sessions, permission prompts, and desktop widgets.
+- [Soulread](https://github.com/Shish9/Soulread) — Explore the project on GitHub.
 
-## Tools and stack
+## Tools and technologies
 
-- QML
-- C#
-- Flutter
-- Dart
-- React
-- Vite
-- TypeScript
-
-## What I'm working on
-
-I enjoy building software that feels polished, useful, and tailored to how people actually work.
+QML · C# · Flutter · Dart · React · Vite · TypeScript
 
 ## Find me
 
